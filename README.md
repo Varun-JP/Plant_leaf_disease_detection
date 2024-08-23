@@ -18,7 +18,7 @@ The "Plant Leaf Disease Detection System Using AI Algorithms" repository contain
 - Keras
 - OpenCV
 - Pillow
-- PyQt5 Designer
+- Streamlit
 
  
 ## Usage
